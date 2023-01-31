@@ -1,0 +1,440 @@
+id,String,topic,type
+1,Which of the following are components of an information system?,Introduction to Information Processing,MC
+2,Which of the following is an example of data collection?,Introduction to Information Processing,MC
+3,Which of the following personnels is responsible for performing backup of an information system?,Introduction to Information Processing,MC
+4,Which of the following is not a valid way to improve students' information literacy?,Introduction to Information Processing,MC
+5,Which of the following is/are (a) method(s) of control that ensures the reasonableness of the data input?,Data Organisation and Data Control,MC
+6,The same parity check has been applied in the transmission of the following 8-bit data. One of the data received is erroneous. Which one is ,Data Organisation and Data Control,MC
+7,"There are 60,000 employees in a company. What is the minimum number of bits to represent the staff ID of all employee",Number System,MC
+8,The following binary numbers are represented in 8-bit two's complement. Arrange thefollowing numbers in ascending order.,Number System,MC
+9,Which of the following statements regarding character coding system is/are correct?,Number System,MC
+10,"The following is a 6x6 display board. Each pixel, represented by 2 bits each, has 4 states:red, green, blue, and off. How many patterns can this display board illustrate?",Number System,MC
+11,The following are 3 arithmetic operations on 2 8-bits numbers using two's complement representation. Which of the following will result in (an) overflow error(s)?,Number System,MC
+12,"When creating a database table to store students' information, Peter does not use the students' telephone number as the primary key. Why not?",Data Organisation and Data Control,MC
+13,"In a system, 2 bytes and 4 bytes are used to stored a character and an integer respectively. How many bytes are required to store the string ""ROAST 101"" ?",Number System,MC
+14,An old display only supports displaying 256 colours. How many bits are required to represent 256 colours?,Number System,MC
+15,A gym room uses an 8-digit number to represent the membership number. The first 2 digit represents the year the member joins the gym room. What are the maximum number of members that can be join in year 2021 ?,Number System,MC
+16,"Given that the ASCII code for the character 'J' is 4A, the ASCII code 47 represents the character",Number System,MC
+17,Which of the following statements regarding character encoding is/are correct?,Number System,MC
+18,"Using sign-and-magnitude, what is the smallest number that can be represented by 4 bits?",Number System,MC
+19,Which of the following is a reason of representing number in hexadecimal instead of binary?,Number System,MC
+20,Which of the following 8-bit two's complement representation represents a negative even number?,Number System,MC
+21,Give the difference between data and information.,Introduction to Information Processing,LQ
+22,Briefly describe the responsibility of a system analyst.,Introduction to Information Processing,LQ
+23,"For each of the arithmetic operations, determine the result if 8-bit two's complement is used. Write down the decimal representation of the result, or ""O/F"" if an overflow error occurs.",Number System,LQ
+24,James is designing a web site for his company based in the United Kingdom. He is deciding which character encoding system he should use. Give an advantage of using Unicode for his web site. Give a disadvantage of using Unicode for his web site.,Number System,LQ
+25,He is designing a member registration page for the web site. The following shows a snippet of the registration form. Explain the purpose of asking the user to re-enter their password during registration.,Data Organisation and Data Control,LQ
+26,"He is designing a member registration page for the web site. The following shows a snippet of the registration form. Because of the relevant laws, users must be at least 16 years old to be allowed to register. Suggest a method so that James can control the registration.",Data Organisation and Data Control,LQ
+27,"Paul is developing a ticket purchasing system for a cinema. Customers can purchase tickets by using the mobile application or visiting a web site. Explain, briefly, why should the transactions be stored in a centralised database.",Data Organisation and Data Control,LQ
+28,Paul is developing a ticket purchasing system for a cinema. Customers can purchase tickets by using the mobile application or visiting a web site. Give an advantage of using the  mobile application instead of the web site.,"Data Organisation and Data Control, Introduction to Information Processing",LQ
+29,Paul is developing a ticket purchasing system for a cinema. Customers can purchase tickets by using the mobile application or visiting a web site. Give an advantage of using the web site instead of the mobile application.,"Data Organisation and Data Control, Introduction to Information Processing",LQ
+30,"To purchase the tickets for a movie, children, and student. The numbers entered must be an integer. Suggest another data validation technique.",Data Organisation and Data Control,LQ
+31,Paul is considering using parity check in validating the ticket number. Do you agree? Explain briefly.,Data Organisation and Data Control,LQ
+32,"Each seats have the following 3 states: free, reserved, and occupied. Paul uses 2 bits to represent the states as follows. What does the bit pattern 0110 1001 0000 0110 represent?",Number System,LQ
+33,"Each seats have the following 3 states: free, reserved, and occupied. Paul uses 2 bits to represent the states as follows. Write down the bit pattern that represents the following row.",Number System,LQ
+34,What does the bit pattern 01000101 10000001 00000010 represent?,Number System,LQ
+35,Write down the shortest bit pattem that can represent the following row.,Number System,LQ
+36,"To facilitate the development, Paul decides to represent the bit pattern in (e) using hexadecimal number. Write down the hexadecimal representation of the bit pattern 01000101 10000001 00000010.",Number System,LQ
+37,What does the hexadecimal representation of the bit pattern 02 84 42 represents?,Number System,LQ
+38,"In a particular house of a cinema, there are 20 rows with 20 seats each. Using the encoding scheme in (d), what is the number of bytes required to represent all seats?",Number System,LQ
+39,"In a particular house of a cinema, there are 20 rows with 20 seats each. Using the encoding scheme in (e), what is the minimum number of bytes required to encode all seats?",Number System,LQ
+40,"There are a 500 GB hard disk on the database server, of which 100 GB are reserved for the operating system and application programmes. Assume that each transaction consists of 2 tickets, what is the maximum number of records that can be stored on this system?",Number System,LQ
+41,Which of the following is/are not (a) common video file format(s)?,Multimedia Elements,MC
+42,"When recording an instrument, Alice uses WAV instead of MP3 as the file format. Which of the following is/are (a) possible reason(s) for Alice's choice?",Multimedia Elements,MC
+43,"To convert an analogue signal to digital signal, which of the following actions must be performed?",Multimedia Elements,MC
+44,A piece of music is converted from analogue signal to digital signal. Which of the following statement is not correct?,Multimedia Elements,MC
+45,Bob uses vector graphics instead of bitmap image for an image for his web site. Which of the followin is/area ssible reason s for this choice?,Multimedia Elements,MC
+46,Which of the following is/are (an) example(s) of converting digital data to analogue data?,Multimedia Elements,MC
+47,Clara wants to apply the same style to all slides of a presentation. Which of the following is the most efficient way to achieve this?,"Word Presentation, Data Manipulation and Analysis",MC
+48,"James wants to add a copy of X.xlsx to Y.pptx using Object Linking and Embedding (OLE) so that he can present a series of data to his boss. However, before the presentation, data in X.xlsx has been updated. James finds that the data in Y.pptx has not been updated. Which of the following statement is correct?",Data Manipulation and Analysis,MC
+49,Brian creates a portable document format (PDF) file instead of a word for his report. Which of the following is/are (a) possible reason(s) for using PDF file instead of a word document?,Word Presentation,MC
+50,Cathy wants to a text file with formatting styles and cross-platform functionality. Which of the following file extensions can she choose?,Word Presentation,MC
+51,"George is a mathematics teacher. He is creating a presentation file for his students. He adds a hyper link to a slide, which links to some additional materials. Which of the following options can be linked the her link?",Data Manipulation and Analysis,MC
+52,Which of the following font formatting features has Oscar applied?,Word Presentation,MC
+53,Oscar has manually inserted the character 'l' in superscript. Which of the following features can he use so that the process can be performed automatically?,Word Presentation,MC
+54,Which of the following operations will likely decrease the number of pages in a document file?,Word Presentation,MC
+55,"When creating a document, Joseph mistakenly typed the word DNS as DSN. Which of the following functions can he used to correct the mistakes efficiently?",Word Presentation,MC
+56,Which ofthe following is not an advantage of using a software suite in an office environment?,Data Manipulation and Analysis,MC
+57,Give an advantage of using PDF over DOCX.,Word Presentation,LQ
+58,Give an advantage of using DOCX over PDF.,Word Presentation,LQ
+59,Give an advantage of using JPG over BMP.,Multimedia Elements,LQ
+60,Give an advantage of using BMP over JPG,Multimedia Elements,LQ
+61,"Clara is a store manager. She wants to create some customised letters for her customers. She has prepared the customer's data and their personalised content in A.xlsx, and the template of the letter in B.docx. Explain how can she prepare these letters efficiently.","Word Presentation, Data Manipulation and Analysis",LQ
+62,"Joseph is developing an image sharing sites. Users of the image sharing sites can upload photos of cats to web site, and share their photos to other users. Explain, briefly, the difference between bitmap image and vector graphics",Multimedia Elements,LQ
+63,"Alice uploads a photo of her cat to the web site, and send the hyperlink of the photo to Bob. When Bob downloads the photo, he finds that the file size is smaller than Alice's original photo. Explain, briefly, how the lowered file size is accomplished",Multimedia Elements,LQ
+64,"Alice uploads a photo of her cat to the web site, and send the hyperlink of the photo to Bob. When Bob downloads the photo, he finds that the file size is smaller than Alice's original photo.  Give two advantages of lowering the file size.",Multimedia Elements,LQ
+65,Calculate the aspect ratio of the photo.,Multimedia Elements,LQ
+66,"Joseph expects that on average 15 photos will be uploaded to the web site every day. Assuming all photos are uncompressed, estimate the storage required to store the photos for a year. Show your calculation and express your answer in GB.",Multimedia Elements,LQ
+67,"Without allocating more storage nor applying compression, suggest two methods to reduce the file size of the photos.",Multimedia Elements,LQ
+68,Tom wants to keep each video file under 50 GB. What is the maximum duration of each video? Show your calculation and express your answer in seconds.,Multimedia Elements,LQ
+69,Tom plans to use Object Linking and Embedding (OLE) to integrate the video file with the presentation file. Describe the major difference between object linking and object embedding.,Data Manipulation and Analysis,LQ
+70,"Instead of using a PPTX file, Tom decides to abandon the use of OLE and uses a HTML file instead. Give two advantages of using HTML instead of PPTX for the presentation.","Word Presentation, Data Manipulation and Analysis",LQ
+71," Tom also creates a set of teaching notes in DOCX so that students can follow along in the lesson. However, he notices that some students are lost because they cannot find the pages of a particular topic. How can Tom modify his notes to include a page with hyperlinks to different chapters of the notes?",Word Presentation,LQ
+72,Jake is storing the telephone number of members of a gym centre in a spreadsheet. Which of the following cell formats can he use?,Spreadsheet,MC
+73,"Peter is selecting a chart to represent the number of students who take minibuses, buses, and subway to leave school. Which of the following spreadsheet chart should Peter use?",Spreadsheet,MC
+74,A database server is operated on by Alice and Bob concurrently. Alice wants to execute query S1 and Bob wants to execute query S2 to a database table T on this server. Which of the following scenario may cause (an) issue(s)?,Database,MC
+75,Which of the following operations has not been performed by the following SQL statement?,Database,MC
+76,Which of the following spreadsheet functions can be used to achieve this?,Spreadsheet,MC
+77, Referring to the following spreadsheet. What is the output of the following formula?,Spreadsheet,MC
+78,Study the following SQL statement. Which of the following is the major advantage of using a data entry form in a database management system?,Database,MC
+79,"Study the following SQL statement. When James execute the above SQL statement, he finds that the database returns no results. Which of the following are possible reason(s)?",Database,MC
+80,"If the database table DAILY_TRANSACTIONS is exported into a spreadsheet, which of the following is a spreadsheet features that can produce a similar result to the SQL statement?",Database,MC
+81,Which of the following statements regarding cell reference of a spreadsheet file is correct?,Spreadsheet,MC
+82,Which of the following are required when creating a database table?,Database,MC
+83,Consider the spreadsheet below. What is the output of the following formula?,Spreadsheet,MC
+84,Which of the following spreadsheet functions will yield the same result?,Spreadsheet,MC
+85,Jake wants to create an application to allow citizens order taxis through a mobile application. Which of the following software does he need?,"Spreadsheet, Database",MC
+86,Considering the following spreadsheet. What is the output of the following formula?,Spreadsheet,MC
+87,Consider the following spreadsheet. What is the output of the following formula?,Spreadsheet,MC
+88,"In spreadsheet, which of the following can join two texts together?",Spreadsheet,MC
+89,"On each product of a supermarket, a bar code is printed on the product. Which of the following is/are essential to be represented by the bar code?","Spreadsheet, Database",MC
+90,"Consider the following database table, STUDENT. Which of the following values comes first in the output of the following SQL command?",Database,MC
+91,"Consider the following database table, EMPLOYEE. What values will be included in the output of the following SQL statement?",Database,MC
+92,Give a reason why students' dates of birth should be stored in a database table instead of their ages.,Database,LQ
+93,"Give a reason why students' phone number should not be used as the primary key of the database table STUDENT, where student's personal information are stored.",Database,LQ
+94,"Give a reason why the HKID card number of a member should not be used as the primary key of the database table MEMBER, where personal information of members of a gym club are stored.",Database,LQ
+95,Susan wants to quick generate a sequence of number from 1 to 1000. Suggest a spreadsheet function to achieve it and briefly describe the steps to obtain the sequence.,Spreadsheet,LQ
+96,"Tom is predicting the best price for his brand new products. He wants to estimate a number of cases of different selling prices and sales volume, and how these cases affect the final profit. Suggest a spreadsheet function to achieve this and briefly describe the steps to obtain the result.",Spreadsheet,LQ
+97,"When a car enters and leaves a car park, the system will identifies the licence plate number of the car. The driver will tap their Octopus Card to enter and leaves the car park. The database table, PARK, has the following 6 records. Give an example to illustrate why L_NUM cannot be used as the primary key for PARK.",Database,LQ
+98,"When a car enters and leaves a car park, the system will identifies the licence plate number of the car. The driver will tap their Octopus Card to enter and leaves the car park. The database table, PARK, has the following 6 records. Give an example to illustrate why OUT_TIME cannot be used as the primary key for PARK.",Database,LQ
+99,"When a car enters and leaves a car park, the system will identifies the licence plate number of the car. The driver will tap their Octopus Card to enter and leaves the car park. The database table, PARK, has the following 6 records. Give the primary key for PARK.",Database,LQ
+100,"When a car enters and leaves a car park, the system will identifies the licence plate number of the car. The driver will tap their Octopus Card to enter and leaves the car park. The database table, PARK, has the following 6 records. Based on the 6 records given in PARK, what is the output after executing the following SQL command?",Database,LQ
+101,"Based on the database table PARK, a spreadsheet is created. Clara, a manager of the car park, wants to enters the following formula in F2, and then copies it to F3:F1009. What is the value of F6?",Spreadsheet,LQ
+102,What is the purpose of the ROUNDUP function?,Spreadsheet,LQ
+103,Clara wants to calculate the total fee of each parking records by writing a formula in G2. The fee is calculated by multiplying the duration with the respective CAR_TYPE's fee. The formula written in G2 will be copied to G3:G1009. Write the formula for G2. ,Spreadsheet,LQ
+104,Write a spreadsheet formula to calculate the number of male (M) students in this spreadsheet.,Spreadsheet,LQ
+105,"If the student obtains at least 70 marks in the interview (I_SCORE), he or she gets a 1 in GOOD. If the student obtains at least 90 marks in the interview, he or she gets a 2 in GOOD. Otherwise, the student gets a 0 in GOOD. Write a spreadsheet formula in F2, which will then be copied to F3:F111, to achieve this.",Spreadsheet,LQ
+106,"Lee Li Li has an interview score of -1 because she was absent from the interview. Before doing computation work on this spreadsheet, what precaution should be taken?",Spreadsheet,LQ
+107,"Mr Chan, a teacher of the school, attempts to use a pivot table to obtain the average interview score of gender vs. class. Complete the following steps for creating the pivot table.",Spreadsheet,LQ
+108,Suggest a primary key for INTERVIEW.,Database,LQ
+109,Suggest a data type for I_SCORE.,Database,LQ
+110,The following SQL command is executed. What is the expected output based on the 5 records in INTERVIEW?,Database,LQ
+111,What is the purpose of the SQL command?,Database,LQ
+112,Which of the following statements regarding cache memory of a CPU is/are correct?,System Unit of a Computer System,MC
+113,Which of the following is/are (an) advantage(s) of using a solid-state disk (SSD) over a traditional hard disk?,Secondary Storage Devices,MC
+114,James is digitising some photos using a scanner. Which of the following settings will affect the quality of the scanned photos?,Input and Output Devices,MC
+115,Citizens can book for vaccination through a web site. Citizens can select the timeslot for the booking they want that still have quotas. Which of the following modes of operation best describe this system?,Computer System,MC
+116,"During the fetch phase of the instruction cycle, which of the following components are involved?",System Unit of a Computer System,MC
+117,"Dave is editing some video files, and he finds the rendering process is very time-consuming. Which of the following components should he consider upgrading?",System Unit of a Computer System,MC
+118,Which of the following is a system software?,System Software,MC
+119,Alice is consider buying a monitor. Which of the following should she consider?,Input and Output Devices,MC
+120,Which of the following is/are common connection method(s) for mouses?,Input and Output Devices,MC
+121,Which of the following help check for errors in a hard disk drive?,System Software,MC
+122,Which of the following statements regarding CPU registers is correct?,System Unit of a Computer System,MC
+123,Which of the following statements regarding the clock rate and clock cycle of a CPU is correct?,System Unit of a Computer System,MC
+124,Which of the following are functions typically provided by an operating system?,System Software,MC
+125,Which of the following are benefits of compressing files into ZIP before transmitting them through the Internet?,System Software,MC
+126,The following files are compressed into ZIP. Which compression will achieve the smallest compression ratio?,"System Software, Multimedia Elements",MC
+127,Which of the following can you likely find on a specification of a printer?,System Unit of a Computer System,MC
+128,Which of the following is not a common specification of a Central Processing Unit (CPU)?,System Unit of a Computer System,MC
+129,A user can watch video and edit a spreadsheet file at the same time. Which of the following best describe this operation?,System Software,MC
+130,Suppose the ROM of a computer is damaged. Which of the following statement is correct?,System Unit of a Computer System,MC
+131,What kind of memory should be used in the portable device? Explain briefly.,Secondary Storage Devices,LQ
+132,"Other than the storage capacity and physical size, give two major design consideration of the portable device.",Secondary Storage Devices,LQ
+133,"Bob, an analyst, suggests installing the operating system on the ROM of the portable device. Do you agree? Explain briefly why or why not.",System Unit of a Computer System,LQ
+134,Components of the portable device follows the following relationship. The arrow illustrate the direction of data flow. Draw two arrows that are missing on the diagram.,System Unit of a Computer System,LQ
+135,"Which mode of processing, batch processing, real-time processing, distributed processing, or parallel processing, best describe this operation? Explain briefly.",Computer System,LQ
+136,"Participants can submit their registration through a mobile application. Despite providing the same functionalities, multiple versions of the mobile application have to be developed. Why?",System Software,LQ
+137,Give two technical consideration when developing the mobile application.,"Input and Output Devices, Secondary Storage Devices",LQ
+138,Give a difference between flash memory and RAM.,System Unit of a Computer System,LQ
+139,Give a difference between flash memory and ROM.,System Unit of a Computer System,LQ
+140,"The CPU of X includes 10 cores 20 threads. Explain, briefly, what do ""10 cores"" and ""20 threads"" mean respectively.",System Unit of a Computer System,LQ
+141,Give an advantage of overclocking the CPU.,System Unit of a Computer System,LQ
+142,Give an advantage of underclocking the CPU.,System Unit of a Computer System,LQ
+143,Computer X has both a hard disk and a solid-state drive (SSD). Should the operating system be installed on the hard disk or the SSD? Explain your answer briefly.,Secondary Storage Devices,LQ
+144,Computer X has both USB-A and USB-C ports. Give two differences between USB-A and USB-C.,Secondary Storage Devices,LQ
+145,Give one biometric authentication device that can be installed on the computers.,Input and Output Devices,LQ
+146,Kelvin plans to buy either computer X or Y for video editing. Which computer should Kelvin choose? Give two reasons to support your choice.,System Unit of a Computer System,LQ
+147,Give two differences between application software and system software.,System Software,LQ
+148,Suppose James will run this algorithm thousands of times with N >= 64 on his desktop computer. He wants to improve the execution efficiency significantly. James increases the storage capacity of RAM but finds out that it does not help. Why not?,System Unit of a Computer System,LQ
+149,Give a hardware component that James should upgrade.,System Unit of a Computer System,LQ
+150,James does not use system software to create the application programme. Why not? Explain your answer with the functions of system software.,System Software,LQ
+151,"After the fetch phase of this instruction, what are the values stored in the following components? Memory Address Register (MAR): ",System Unit of a Computer System,LQ
+152,"After the fetch phase of this instruction, what are the values stored in the following components?  Memory Data Register (MDR):",System Unit of a Computer System,LQ
+153,"After the fetch phase of this instruction, what are the values stored in the following components? Memory address 0100 1001:",System Unit of a Computer System,LQ
+154,How many different values can be represented by the memory addresses in the computer?,System Unit of a Computer System,LQ
+155,"During the creation of the application programme, James is running out of storage space. He attempts to use defragmentation software, but it does not resolve the issues. Why not?","System Software, Secondary Storage Devices",LQ
+156,James prefers using keyboard and mouse over a touch screen while creating the application programme. Give an advantage of using keyboard and mouse over a touch screen.,Input and Output Devices,LQ
+157,In which hardware component should James store the source code of the programme?,"Secondary Storage Devices, System Unit of a Computer System",LQ
+158,Mark is considering the memory cache and bus system of the server. Give the functions of memory cache and bus system respectively.,System Unit of a Computer System,LQ
+159,"Apart from hard disk, memory cache, and bus system, give two major hardware items that Mark should consider.",System Unit of a Computer System,LQ
+160,Mark chooses thermal printers over ink-jet printers for the POS terminals. Give two reasons to support his choice.,Input and Output Devices,LQ
+161,Company A has produced a refrigerator that can be connected with smart phones through a local area network. Which of the following must be used?,Communication Software and Protocols,MC
+162,Suppose the refrigerator connects to the Internet through the local area network. Which of the following is a potential advantage of the connection?,The Networking and Internet Basics,MC
+163,Amy receives an email for which her email address is listed in the 'BCC' field. Which of the following is a possible reason for putting her email address in the 'BCC' field?,Internet Services and Applications,MC
+164,"In HTML, which of the following are attributes of an image (img)?",Introduction to HTML,MC
+165,Which of the following is/are (a) function(s) of router?,The Networking and Internet Basics,MC
+166,Bobby wants to access the computer of his office using his home computer. Which of the following statement is/are correct?,"Internet Services and Applications, The Networking and Internet Basics",MC
+167,Which of the following statements regarding Uniform Resource Locator (URL) is correct?,Communication Software and Protocols,MC
+168,ABC Co. Ltd. is a company that provides online lessons through streaming. The company needs an Internet access method that guarantees a high bandwidth and provides a reliable connection. Which of the following Internet access methods should the company choose?,The Networking and Internet Basics,MC
+169,Arrange the following transmission media in ascending order of effective data transfer rate.,The Networking and Internet Basics,MC
+170,"Instead of using a domain name, the company requires the employees to use the IP address to access the Intranet. Which of the following are advantages of this arrangement?",Communication Software and Protocols,MC
+171,"Peter wants to watch a video stream from a web site. However, the video fails to play. Which of the following are possible reasons for the failure?",The Networking and Internet Basics,MC
+172,Clara needs to conduct a presentation about snooker. She is searching the Internet for relevant information to include in the presentation. What should Clara consider when using the information from the Internet?,Internet Services and Applications,MC
+173,Which of the following should Clara do to increase the relevancy of her search?,Internet Services and Applications,MC
+174,Which of the following statements about streaming is/are correct?,Internet Services and Applications,MC
+175,Which of the following are components of a search engine?,Internet Services and Applications,MC
+176,Boris sets up a gaming server at his home. Which of the following is/are (an) advantage(s) of setting up server at home over renting a gaming server?,The Networking and Internet Basics,MC
+177,Tom visits http://10.3.4.5/index.html. Which of the following is/are likely involved?,Communication Software and Protocols,MC
+178,Which of the following statements regarding Internet Protocol (IP) is/are correct?,Communication Software and Protocols,MC
+179,"When visiting a social media site, images will be download from a web server to a mobile device through the Internet. By referring to the concepts of data packets and the Internet Protocol (IP), describe how an image file is transmitted through the Internet.",Communication Software and Protocols,LQ
+180,Give two major differences between video conferencing and webcasting.,Internet Services and Applications,LQ
+181,Should the students' email addresses be put in the 'TO' field or 'CC' (carbon copy) field of the email? Justify your answer by stating the major difference between the two fields.,Internet Services and Applications,LQ
+182,"The file size of all the homework combined is over 50MB, and the email server rejects the homework as an attachment. Suggest two methods to send the homework through the Internet instead.",Internet Services and Applications,LQ
+183,Give one advantage and one disadvantage of using wireless network in the new gym room.,The Networking and Internet Basics,LQ
+184,Surveillance cameras will be installed in the gym room. Suggest a common wireless transmission media to connect the surveillance cameras.,The Networking and Internet Basics,LQ
+185,"Jake drafts the following network diagram. X and Y are network devices, and Y connects the surveillance cameras wirelessly. Give the name of X and Y.",The Networking and Internet Basics,LQ
+186,What is the function of the modem?,The Networking and Internet Basics,LQ
+187,Describe two network services for the surveillance cameras provided by the desktop computer.,The Networking and Internet Basics,LQ
+188,"The desktop computer is installed with Microsoft Windows, and the surveillance cameras run in Linux. Although they are installed with different operating systems, they can properly transfer files and signals between them. Why?",Communication Software and Protocols,LQ
+189,"To connect the desktop computer to the network, a network interface card is installed on the desktop computer. What is the function of the network interface card?",The Networking and Internet Basics,LQ
+190,The desktop computer has both a MAC address and an IP address. Give two differences between these two addresses.,Communication Software and Protocols,LQ
+191,How many domain name(s) do(es) Tony need to obtain?,Communication Software and Protocols,LQ
+192,"When a user clicks on one of the URLs, what will the Domain Name System (DNS) do?",Communication Software and Protocols,LQ
+193,Should Tony builds a DNS to improve the network services? Explain briefly.,Communication Software and Protocols,LQ
+194,Give a benefit and a limitation of using streaming technology.,Internet Services and Applications,LQ
+195,Give an audio file format that supports streaming.,Internet Services and Applications,LQ
+196,State two technical differences between the two options. (Audio Quality),Internet Services and Applications,LQ
+197,The web site provides over 100 podcasts for 20 HKDSE subjects. A web page allows users to search for any podcasts with keyword inputs or selecting the subject. Draft the layout design of the web page with annotations.,Elementary Web Authoring,LQ
+198,Tony has drafted the following two designs for the podcast rating page. Which design is better? Give one reason to support your answer.,Elementary Web Authoring,LQ
+199,"Before writing the source code of a programme, which of the following should be done?",Algorithm Design,MC
+200,"Suppose that a score of 90 should receive an output of ""Excellent"". Which type of error is shown in the snippet?",Program Testing and Debugging,MC
+201,Which of the following sets of input data is the most suitable to test the snippet?,Program Testing and Debugging,MC
+202,Which of the following statements regarding the bottom-up approach is not correct?,Algorithm Design,MC
+203,"Which of the following can the rectangle after ""NO"" represent?",Algorithm Design,MC
+204,Which of the following are required to represent the flowchart?,"Algorithm Design, Program Development",MC
+205,"Suppose that X = -1, Y = 7, and Z = FALSE. Which of the following Boolean expressions is TRUE?",Algorithm Design,MC
+206,Which of the following Boolean expressions are identical?,Algorithm Design,MC
+207,What is the output of the following algorithm?,"Algorithm Design, Program Development",MC
+208,"Suppose ""You win"" is output if the user can guess that the target number in at most 3 guesses. Which of the following should be in \u2780?","Algorithm Design, Program Development",MC
+209,What is the output of the following algorithm?,"Algorithm Design, Program Development",MC
+210,"N is an array and N[1], N[2], N[3], N[4], and N[5], store 1, 0, 0, 0, and 1, respectively. What is the output of the following algorithm?","Algorithm Design, Program Development",MC
+211,D is an integer array. What is the output of the following algorithm?,"Algorithm Design, Program Development",MC
+212,Which of the following is/are included in the output?,"Algorithm Design, Program Development",MC
+213,Consider the following flowchart. C is an integer array. What is the purpose of the algorithm depicted?,Algorithm Design,MC
+214,What is the purpose of using the variable N in the algorithm?,Program Development,MC
+215,A is an array. What is the output of the following algorithm?,"Algorithm Design, Program Development",MC
+216,Which of the following input will result in a run-time error?,"Program Testing and Debugging, Program Development",MC
+217,"How many ""*"" will be output after execution of the algorithm? ","Algorithm Design, Program Development",MC
+218,Consider the following algorithm. Which of the following are major benefits of using Boolean as the data type of FOUND?,"Algorithm Design, Program Development",MC
+219,Briefly describe how does the use of modular approach reduces the possibility of having logic errors in the programme.," Algorithm Design, Program Testing and Debugging",LQ
+220,"Apart from reducing possible logic errors, give two other advantages of using modular approach in programming.",Algorithm Design,LQ
+221,H is an array which stores the number of homework missed by students. Complete the following algorithm to find the total number of homework missed by all students by summing over the array H.,"Algorithm Design, Program Development",LQ
+222,How many students are there in total?,"Algorithm Design, Program Development",LQ
+223,Write down the expression of \u2780.,"Algorithm Design, Program Development",LQ
+224,What is the purpose of line 3 to line 5?,Algorithm Design,LQ
+225,"Write down the content of A after the 1st pass and the 2nd pass of the loop, as well as the end of the algorithm in ALG2.","Algorithm Design, Program Development",LQ
+226,"ALG2 does not execute correctly when N is an odd number. Rewrite line 2 to line 5 of
+ALG2 to correct the algorithm.",Algorithm Design,LQ
+227,"Which algorithm, ALG1 or ALG2, is more efficient? Explain briefly.","Algorithm Design, Program Development",LQ
+228,Give a limitation of using the proposed codes.,"Algorithm Design, Program Development",LQ
+229,"Jack, an assistant of 3022Shop, writes ALG3 to find the amount of the largest transaction. R is an array that stores N transaction amounts. Complete ALG3.","Algorithm Design, Program Development",LQ
+230,Can line 1 be changed to 'result \u2190 R[1]'? Explain briefly.,"Algorithm Design, Program Testing and Debugging",LQ
+231,What data type should be used to represent a transaction amount? ,Program Development,LQ
+232,Complete the modified ALG4 below to only allow positive number to be entered.,"Algorithm Design, Program Development",LQ
+233,Explain the effect of 'i \u2190 i + 1' being outside of the IF statement.,"Algorithm Design, Program Development",LQ
+234,"Apart from the range check in (i), give another data validation technique that can be implemented.",Program Testing and Debugging,LQ
+235,"Suppose that not all users have the same number of transactions, and Jack wants to terminate the modified ALG4 earlier. Describe the changes he should make on the modified ALG4.",Algorithm Design,LQ
+236,Which of the following are good practices of ergonomics?,Health and Ethical Issues,MC
+237,Which of the following are methods to minimise the impact of a computer virus?,Threats and Security on the Internet,MC
+238,Which of the following may infringe intellectual property rights?,Intellectual Property,MC
+239,Alice downloads programme X by using a hyperlink posted in an online forum instead of the official web site. Which of the following are potential problems that Alice might encounter?,Threats and Security on the Internet,MC
+240,Which of the following are methods of authenticating a user on an online system?,Threats and Security on the Internet,MC
+241,You have a video that you want to post on a video sharing web site. Which of the following can be used to protect your intellectual property?,Intellectual Property,MC
+242,An anti-virus software needs to be updated regularly. Why?,Threats and Security on the Internet,MC
+243,The Government provides computers to low-income household. Which of the following social issues is the Government attempting to solve?,Health and Ethical Issues,MC
+244,A network administrator detects an intrusion attempt made by a hacker. Which of the following actions are appropriate?,Threats and Security on the Internet,MC
+245,Which of the following are ways to protect the anonymity of the user?,Threats and Security on the Internet,MC
+246,Which of the following statements regarding copyright in Hong Kong is/are correct?,Intellectual Property,MC
+247,Mr Chan cannot access a particular web site. Which of the following is/are (a) possible reason(s)?,Threats and Security on the Internet,MC
+248,Which of the following should be done to reduce the impact of a hacking attack?,Threats and Security on the Internet,MC
+249,Which of the following will increase the chances of being infected with a computer virus?,Threats and Security on the Internet,MC
+250,How does the Public Key Infrastructure (PKI) prevent eavesdropping and interception?,Threats and Security on the Internet,LQ
+251,"When Jake sends a message to John, Jake encrypts the message with his own private key. Give a reason why he wants to do this, despite every one can access his public key.",Threats and Security on the Internet,LQ
+252,Give one advantage and one disadvantage of using a shareware.,Intellectual Property,LQ
+253,Give two things the users can do with an open source software.,Intellectual Property,LQ
+254,Give two factors that cause digital divide in our society.,Health and Ethical Issues,LQ
+255,Give two ways of narrowing digital divide.,Health and Ethical Issues,LQ
+256,"Bob receives a phishing email, pretending to be an online bank. Although he clicks on the URL, he does not input any information. Give two potential threats he might encounter.",Threats and Security on the Internet,LQ
+257,How does the receiver of the email know the URL in the email leads to a phishing website? Give one method to verify the URL.,Threats and Security on the Internet,LQ
+258,The videos being streamed are encrypted. Give one advantage and one disadvantage of encrypting the videos.,Threats and Security on the Internet,LQ
+259,"After registration, an initial password is sent to the user's email inbox. Give an advantage for each of the following practice: Require the user to modify their password.",Threats and Security on the Internet,LQ
+260,"After registration, an initial password is sent to the user's email inbox. Give an advantage for each of the following practice: Show the last login time and whether the login is successful after login.",Threats and Security on the Internet,LQ
+261,Mark watches live stream on this platform for four hours every day. Give a health problem he may encounter.,Health and Ethical Issues,LQ
+262,"Other than taking breaks, suggest one way to relieve the health problem in (i).",Health and Ethical Issues,LQ
+263,Jack is a streamer on the platform. He wants to play some music in the live stream. Give two methods to handle the relevant copyright issues.,Intellectual Property,LQ
+264,How does the firewall secure the live streaming platform?,Threats and Security on the Internet,LQ
+265,How does SSL technology secure the live streaming platform?,Threats and Security on the Internet,LQ
+266,"Apart from entering the username and password, users are required to use a token to log on to the platform. How does a token help with the authentication process?",Threats and Security on the Internet,LQ
+267,Jonathan has built some design in the live streaming platform to reduce possible health hazards due to the prolonged use of the system. Describe two designs to achieve this.,Health and Ethical Issues,LQ
+268,The computer room is equipped with a file server where teachers upload teaching materials and examination paper. Suggest two methods to prevent unauthorised access of these files.,Threats and Security on the Internet,LQ
+269,"Because the computer room has many expensive devices, the computer room is locked with a smart card system. Give two advantages of accessing the room with a smart card over using a key.",Threats and Security on the Internet,LQ
+270,Describe two things to consider when setting up the light system and curtains in the computer room with reference to concepts of ergonomics.,Health and Ethical Issues,LQ
+271,"Apart from ergonomic mouses and ergonomic keyboards, give two ergonomic equipment to be used in the computer room.",Health and Ethical Issues,LQ
+272,What types of licence should the school obtain if they buy standalone software?,Intellectual Property,LQ
+273,Give two advantages of subscribing to a cloud service instead of buying standalone software.,Intellectual Property,LQ
+274,Give two advantages of buying standalone software instead of subscribing to a cloud service.,Intellectual Property,LQ
+275,The school does not want to develop the required software by themselves. Why not? Give two reasons to support your answer.,Intellectual Property,LQ
+276,Which of the following activities involve(s) the conversion of analog to digital data or vice versa?,Multimedia Elements,MC
+277,A computer system uses the Hong Kong identity card (HKID) number as a key field for managing accounts. Its check digit is used to detect input errors made by users. Which of the following input errors can usually be found by the check digit?,Data Organisation and Data Control,MC
+278,Increment the following numbers using 8-bit two's complement representation by 1. Which one will create an overflow error?,Number System,MC
+279,"In a computer system, 10 bits are reserved for user identity codes and 54 bits are reserved for alias names. What is the maximum number of user accounts in the system?",Number System,MC
+280,Mr Lee wants to set up a cleaning service company to serve thousands of clients. He needs to process data about the service and create a monthly report for each client. Which software should he buy?,System Software,MC
+281,"In the following spreadsheet, the formula, `=SUM (Al : C3 ) ', is entered in El. What value is displayed in F2 after the formula in El is copied into F2?",Spreadsheet,MC
+282,Mr Wong wants to create a chart to display the following nutritional data. Which type(s) of chart(s) is/are appropriate?,Spreadsheet,MC
+283,Only one record is retrieved after executing the following SQL command. Why?,Database,MC
+284,Which formatting features of a word processor has she used?,Word Presentation,MC
+285,John uses his notebook computer to create a web-based presentation through a web site. He does not use the pre-installed presentation software to do so. Why?,"Elementary Web Authoring, Data Manipulation and Analysis",MC
+286,"When creating a database table, what should be defined?",Database,MC
+287,Which of the following is/are the best practice when using online banking systems?,Threats and Security on the Internet,MC
+288,"In 2012, the US Government launched a project to explore how 'big data' could be used. 'Big data' refers to the huge amount of data collected which is difficult to process using database management systems. Which of the following are examples of 'big data'?",Database,MC
+289,The following QR code is printed on an advertisement so that readers can scan the code and browse product information online through smart phones. What information is encoded in the QR code?,Multimedia Elements,MC
+290,"A WAV file, which is a common audio file, consists of a header. Which of the following items is stored in the header?",Multimedia Elements,MC
+291,Mary converts the file animal.bmp to animal.jpg. Why?,Multimedia Elements,MC
+292,A quad-core processor is generally better than a dual-core processor because,System Unit of a Computer System,MC
+293,Mary connects a new USB flash drive to a computer. She does not need to install a driver program for the flash drive. Why not?,Secondary Storage Devices,MC
+294,A TV unit has the following three ports. High Definition (HD) videos will be output to the TV unit. Which of the following ports should be used?,System Unit of a Computer System,MC
+295,A car is equipped with a global positioning system (GPS) such that the driver can get the location and time information when driving. Which of the following best describes the mode of operation of the system?,Computer System,MC
+296,Which of the following classifications is correct?,"System Software, Input and Output Devices",MC
+297,"Joseph installs network-attached storage (NAS) in the office network that operates as a file server. If he installs more cache memory in the NAS, which of the following can be greatly improved?","Secondary Storage Devices, System Unit of a Computer System",MC
+298,"When browsing a web page, which of the following will be involved?",Communication Software and Protocols,MC
+299,"In an email application, the settings of  X  and  Y  are used for receiving email and sending email respectively.",Internet Services and Applications,MC
+300,Mary has a wireless network with Internet access at home. She finds that the file transfer rate between a notebook computer and a desktop computer through the network is very low. What is the possible reason for this?,The Networking and Internet Basics,MC
+301,"A proxy server in a school network can 	",The Networking and Internet Basics,MC
+302,What is/are the advantage(s) of using tablet computers in e-learning?,Internet Services and Applications,MC
+303,Peter can use the following two methods to download files. He chooses Method 1. Why? Method 1 : Direct download through HTTP; Method 2: Download using (P2P) file sharing technology,Intellectual Property,MC
+304,"When constructing tables in a web page, which of the following attributes of the tables can be set?",Introduction to HTML,MC
+305,The sales department of an insurance company wants to improve service to its clients. It asks the IT project manager to establish some web pages for the clients. What should the IT project manager do first?,Introduction to Information Processing,MC
+306,Part of a flowchart is shown below. The algorithm requests the user to repeatedly enter a number until a positive number is entered. What should be filled in the decision box?,"Algorithm Design, Program Development",MC
+307,What is the output of the following algorithm?,"Algorithm Design, Program Development",MC
+308,What is the output of the following algorithm?,"Algorithm Design, Program Development",MC
+309,Which of the following public policies can improve the digital divide in Hong Kong?,Health and Ethical Issues,MC
+310,"Mary is a teenager and makes a new friend, Ada, through a random search function in a social networking web site. Ada wants to meet Mary the following Monday night at 10 p.m. in a restaurant. Mary's eldest brother advises her not to meet Ada. What is the major reason?",Health and Ethical Issues,MC
+311,John does not download patches to upgrade the operating system of his computer. Which of the following statements best describes the possible consequences?,System Software,MC
+312,Which of the following can help visually impaired persons to browse the web?,Health and Ethical Issues,MC
+313,Which of the following statements about copyright protection in Hong Kong is correct?,Intellectual Property,MC
+314,Which of the following actions for desktop computers is/are environmentally-friendly?,Health and Ethical Issues,MC
+315,"In an office network, a technician installs a firewall instead of antivirus software. What is the major reason for this?",Threats and Security on the Internet,MC
+316,"In Area P,waiters wiII input some numerical data. Give two exampIes of these data.",Database,LQ
+317,Ada should apply some appropriate validation checks to the input data. Describe two examples of the validation checks.,Data Organisation and Data Control,LQ
+318,"In Area Q, waiters will receive some output data. Give two examples of these data.",Problem- Formulation and Analysis,LQ
+319,Ada is going to take photos of the lunch sets for the POS system. Give two attributes of the image files that affect the quality of these photos.,Multimedia Elements,LQ
+320,"In the POS system, the daily transactions are stored in a spreadsheet file. Ada can use spreadsheet software to generate daily summary reports for the management. Suggest a spreadsheet function that Ada may use in the reports. Describe briefly.",Spreadsheet,LQ
+321,"In the POS system, the daily transactions are stored in a spreadsheet file. Ada can use spreadsheet software to generate daily summary reports for the management. Ada chooses to use database software instead. Give two benefits of her choice.","Spreadsheet, Database",LQ
+322,"Other than email, suggest three types of computer applications Ms Wong can use to transfer files.",Internet Services and Applications,LQ
+323,"In an international airport, Ms Wong can directly connect to the free Wi-Fi network. Ms Wong finds that the speed of the Internet connection is slow although the network signal is strong. Why?",The Networking and Internet Basics,LQ
+324,"When Ms Wong visits the branch office in Singapore, she needs to install a client program to connect to the Wi-Fi network in the office. Give two benefits of using this client program for this purpose.",The Networking and Internet Basics,LQ
+325,"Ms Wong goes on a business trip to Vietnam. She needs to bring her notebook computer, tablet computer and smart phone to connect to the Internet through a data port on the wall of her hotel room. State the hardware she should have and describe the network connection briefly.",The Networking and Internet Basics,LQ
+326,"To construct the web page, David uses a text editor to write HTML code instead of using a web authoring tool. Give one benefit of each tool. Text editor:",Introduction to HTML,LQ
+327,"To construct the web page, David uses a text editor to write HTML code instead of using a web authoring tool. Give one benefit of each tool. Web authoring tool:",Introduction to HTML,LQ
+328,What is the benefit of having the PKI?,Threats and Security on the Internet,LQ
+329,Briefly describe a way that PKI is used to complete the file transfer.,Threats and Security on the Internet,LQ
+330,Write down the output values of ALG1.,"Algorithm Design, Program Development",LQ
+331,Write down the output values of ALG2.,"Algorithm Design, Program Development",LQ
+332,"If the output values of ALG2 need to be the same as those of ALG1, what should the initial value of Q be changed to?","Algorithm Design, Program Development",LQ
+333,"George further develops the algorithms to build an Internet application. If the application is a parallel processing system, how does the application work?",Computer System,LQ
+334,"If the application is a distributed processing system, how does the application work?",Computer System,LQ
+335,George can use either freeware or open source software to develop the application. What is the major common characteristic of the two types of the software?,Intellectual Property,LQ
+336,George can use either freeware or open source software to develop the application. What is the major difference in terms of the resources that the software provides?,Intellectual Property,LQ
+337,Why do some people promote open source software instead of freeware?,Intellectual Property,LQ
+338,Mr Chan does not use Hong Kong identity card numbers as LOGINID.  Why not? Explain briefly.,Database,LQ
+339,Mr Chan uses email addresses as LOGINID. Why? Explain briefly.,Database,LQ
+340,Mr Chan should not use CLASS and CLASSNO as a composite key field to identify records. Why not? Explain briefly.,Database,LQ
+341,Mr Chan executes the following SQL command. What is the output?,Database,LQ
+342,"Of the passwords in the four records, which one is the most secure?",Threats and Security on the Internet,LQ
+343,Suggest two principles for designing a good password.,Threats and Security on the Internet,LQ
+344,Mr Chan exports data from some fields in STUDENT into a spreadsheet file. Unauthorised persons might be able to access the file. How can Mr Chan protect the data? Give two methods.,Threats and Security on the Internet,LQ
+345,"Mr Chan wants to add an extra field CNAME to STUDENT to store students' Chinese names. Which code, Unicode, GB code or Big-5 code, should he use? Justify your answer.",Data Organisation and Data Control,LQ
+346,Mr Chan uses a word processor to print some letters to be sent to students to inform them about their login information and asking them to activate their accounts. Suggest an efficient way for him to do this.,Word Presentation,LQ
+347,The e-learning activities includes an element of interaction. Describe two examples of the activities.,Internet Services and Applications,LQ
+348,Give two advantages of desktop computers over smart phones.,Computer System,LQ
+349,The reports can be in either text format or PDF format. Give two advantages of using text format over PDF format.,Word Presentation,LQ
+350,Mr Li can ask students to submit the reports through either email or a school network drive. Give one advantage of each method. Email:,Internet Services and Applications,LQ
+351,Mr Li can ask students to submit the reports through either email or a school network drive. Give one advantage of each method. School network drive:,Internet Services and Applications,LQ
+352,"A computer receives the three data sequences, shown below. Each sequence includes a parity bit. Two of the sequences are found to be corrupted during transmission. Which of the following best describes the situation?",Data Organisation and Data Control,MC
+353,"A supermarket uses a database table FRUIT, which stores fruit name FNAME and the corresponding quantity in stock QTY. Which of the following best describes the result of the query below?",Database,MC
+354,What are the advantages of using the following calendar box over a text box for entering a date?,Data Organisation and Data Control,MC
+355,Which of the following additions of 4-bit numbers using two's complement representation will result in an overflow error?,Number System,MC
+356,How many bits are required to represent an image of 8 X 8 black-and-white pixels?,Multimedia Elements,MC
+357,Which of the following is correct? (information process),Introduction to Information Processing,MC
+358,"For a photo, the file size of its BMP image is larger than that of its JPG image because",Multimedia Elements,MC
+359,Which of the following about mail merge are correct?,Data Manipulation and Analysis,MC
+360,Which of the following about a presentation of several slides supplemented with verbal annotation in presentation software is correct?,Data Manipulation and Analysis,MC
+361,"In the following spreadsheet, a formula is entered in 36 based on B2 : B4 to calculate the class fee. Classmates want to limit the class fee to $1,000 by cutting the budget for the study tour. When using the 'goal seek' function for `what-if analysis, which of the following sets of data should be used?",Spreadsheet,MC
+362,Why should characters be represented by character sets such as ASCII in computers?,Data Organisation and Data Control,MC
+363,Why is information literacy important in a knowledge-based society?,Introduction to Information Processing,MC
+364,"When developing a management information system, which of the following should be the first item to be 
+considered?",Problem- Formulation and Analysis,MC
+365,Which of the following is/are the common specification(s) of a home use printer?,"Multimedia Elements, Input and Output Devices",MC
+366,"A standalone computer runs slow when working on database software. Which of the following hardware 
+components should be upgraded?",System Unit of a Computer System,MC
+367,Why would a fast food shop install a thermal printer instead of a laser printer to print receipts at the cashier?,Input and Output Devices,MC
+368,"One day, Mary finds that she cannot access the Internet through her computer at home. Which of the following is a possible cause?","System Unit of a Computer System, The Networking and Internet Basics",MC
+369,Why do we need to regularly update software?,Threats and Security on the Internet,MC
+370,"A company develops a computer system for autopilot driving, so that a vehicle can collect and use image data from the environment and drive on the road safely. It is a real-time processing system because",Computer System,MC
+371,"There are one hundred 300GB surveillance video files. Without any file reorganisation and compression, how many 2TB hard disks are needed to store all the video files?",Secondary Storage Devices,MC
+372,"In a typical situation, what are P, Q and R? (User, Computer)",System Unit of a Computer System,MC
+373,"Which of the following describe(s) the URL, https://www. abc. edu.hk/en/?",Communication Software and Protocols,MC
+374,Which of the following are the potential benefits of e-learning?,Internet Services and Applications,MC
+375,Which of the following should be considered when designing web pages?,Elementary Web Authoring,MC
+376,Fibre optics is used in a computer network because,The Networking and Internet Basics,MC
+377,Internet Protocol (IP) is used in a computer network because,Communication Software and Protocols,MC
+378,Amy uses a computer to watch streaming videos. Which of the following should she consider?,"The Networking and Internet Basics, Secondary Storage Devices",MC
+379,What is the missing part in Algorithm 2?,"Algorithm Design, Program Development",MC
+380,What input value for the algorithm below will not output `Complete ! ?,"Algorithm Design, Program Development",MC
+381,Answer Questions 30 and 31 with reference to the following algorithm. What is the purpose of the algorithm?,"Algorithm Design, Program Development",MC
+382,Answer Questions 30 and 31 with reference to the following algorithm. What is the use of the value '888'?,Algorithm Design,MC
+383,What is the importance of a problem definition in problem-solving?,Problem- Formulation and Analysis,MC
+384,Which of the following is/are the advantage(s) of modularity in programming?,Program Development,MC
+385,Why should appropriate test data be prepared?,Program Testing and Debugging,MC
+386,Peter just finds that he cannot open some important files in a computer in his office due to a ransomware attack. What should he do immediately?,Threats and Security on the Internet,MC
+387,"A shopping mall plans to develop a mobile application for customers to register their shopping records and
+gain bonus points for gifts. Which of the following considerations should be the least important?","Secondary Storage Devices, System Unit of a Computer System",MC
+388,John plays Internet games and uses social media all the time. Which of the following are likely the consequences of such indulgence in Internet activities?,Health and Ethical Issues,MC
+389,Which of the following are appropriate when using a social media application?,Health and Ethical Issues,MC
+390,"Peter installs a software package on his computer. He also installs it on another computer. He does not
+infringe copyright because",Intellectual Property,MC
+391,Which of the following about the use of robots are correct?,Health and Ethical Issues,MC
+392,Peter decides to buy a computer with a quad-core CPU instead of a dual-core CPU. Why does Peter make this decision?,System Unit of a Computer System,LQ
+393,Suggest another CPU technical specification that he might consider.,System Unit of a Computer System,LQ
+394,"Peter will use his computer to edit and render videos. Give two hardware components that he should consider, other than the CPU. Explain briefly.",System Unit of a Computer System,LQ
+395,"Peter buys a new computer with a pre-installed operating system. List two common functions of the operating system, other than file management.",System Software,LQ
+396,He uses free cloud storage for storing video files. Give an advantage and a disadvantage of using the cloud storage over a portable hard disk.,Secondary Storage Devices,LQ
+397,Peter considers installing open source software and freeware. State two differences between them.,Intellectual Property,LQ
+398,Give a term of service regarding privacy. Describe the potential risk of accepting this term that Peter might encounter.,Intellectual Property,LQ
+399,"In Sheet2, the final score	FS	is the average of the highest two scores from the three scores in 
+columns D to F. A formula in G2 is copied to G3 : G8. Write down the formula in G2.",Spreadsheet,LQ
+400,"In Sheet2, a formula =vlookup (A2, Sheetl!A2 :B5, 2, false) is entered in B2 and then
+copied to B3 :B8. It is found that not the names of all houses are correctly shown. Write down the 
+correct formula in B2.",Spreadsheet,LQ
+401,Complete the following parts to create the pivot chart.,Spreadsheet,LQ
+402,"The pivot chart can be inserted into a document using two methods, linking and embedding. Give an advantage of each method.",Data Manipulation and Analysis,LQ
+403,Sheet2 is converted to a database table TB2. Suggest a primary key for TB 2 :,Database,LQ
+404,"Based on the given data in Sheet2, what is the output after executing the following SQL statement? ",Database,LQ
+405,Would you suggest using a spreadsheet or database to process the data of the singing contest? Explain briefly.,"Spreadsheet, Database",LQ
+406,"A school designs the following computer network. P and Q are common network connecting devices. A
+computer X connects to P. Some tablets connect to Q. What are P and Q?",The Networking and Internet Basics,LQ
+407,What is the main function of the router in the network?,The Networking and Internet Basics,LQ
+408,Computer X sends a file to a computer Z. Complete the following steps to describe how data is transmitted.,Communication Software and Protocols,LQ
+409,Is it a must to install a DNS in the school in order that the web server can be accessed by the public? Explain briefly.,Communication Software and Protocols,LQ
+410,Give two reasons why a firewall is enabled in X.,Threats and Security on the Internet,LQ
+411,"The school plans to set up an e-payment system. Other than security tokens, suggest two methods of
+making secure electronic transactions.",Threats and Security on the Internet,LQ
+412,"John develops an Artificial Intelligence (A1) chatbot application to chat with online users and answer ICT
+questions. A dialogue between the chatbot and an online user is shown in the following example:  . According to the dialogue, suggest an answer for the chatbot to reply.",Problem- Formulation and Analysis,LQ
+413,Suggest an improvement to the application for visually impaired people.,Health and Ethical Issues,LQ
+414,Give two ways in which chatbots can influence society.,Health and Ethical Issues,LQ
+415,"Users should set a password of at least 8 characters that must include an uppercase letter, a lowercase letter, a digit and a symbol, Give two good practices for users when setting a password, other than having a long password.",Threats and Security on the Internet,LQ
+416,How can Captcha enhance the security of the login page?,Threats and Security on the Internet,LQ
+417,"John considers encoding symbols into bit patterns in the application, The following table shows the bit patterns of symbols using two different methods. Encode  using Method I:",Number System,LQ
+418,"John considers encoding symbols into bit patterns in the application, The following table shows the bit patterns of symbols using two different methods. Decode '001011' using Method 2:",Number System,LQ
+419,Find the number of bits required for encoding the symbols in each row below.,Number System,LQ
+420,"John considers encoding symbols into bit patterns in the application, The following table shows the bit patterns of symbols using two different methods. Under what scenario will Method 2 be better than Method I ?",Number System,LQ
+421,"Mary designs a subprogram with an array A. She considers algorithms ALGI, ALG2 and ALG3. Suppose that N = 6. Execute ALGI with the following initial content of A:. Write down the final values of B and Ch.","Algorithm Design, Program Development",LQ
+422,Suppose that N = 6. Execute ALGI with the following initial content of A:. How many times will Line 3 be executed?,"Algorithm Design, Program Development",LQ
+423,Suppose that N = 6. Execute ALG2 with the following initial content of A:. How many times will Line 4 be executed?,"Algorithm Design, Program Development",LQ
+424,ALG2 can be more efficient than ALGI. Why?,Algorithm Design,LQ
+425,Complete the following initial content of A such that the number of executions of the statement 'if A[i] = 1 then' in both ALGI and ALG2 would be the same.,"Algorithm Design, Program Development",LQ
+426,ALGI and ALG3 below should always produce the same result. Complete Line 3 below.,"Algorithm Design, Program Development",LQ
+427,"The value of N is very large. Which algorithm, ALGI or ALG3, is more efficient? Explain briefly.","Algorithm Design, Program Development",LQ
+428,"A computer executes Mary's subprogram. State two components in the CPU that are involved in the fetch-decode-execute cycle, other than IR (instruction register).",The Networking and Internet Basics,LQ
