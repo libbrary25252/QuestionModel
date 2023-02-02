@@ -1,2 +1,5 @@
 venv/
 nbroad/
+distBert/
+Bert-model-v1/
+temp_model/
