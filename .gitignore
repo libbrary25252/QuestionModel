@@ -6,6 +6,10 @@ temp_model/
 distlBert-model-v1/
 distBert-v2/
 distBert-v4/
+distBert-v5/
+distBert-v6/
+distBert-v7/
+distBert-v8/
 distlBert-model-v3/
 distlBert-model-v4/
 Bert-v2/
@@ -14,3 +18,6 @@ Bert-model-v3/
 macEnv/
 DistilBert-model-v5/
 DistilBert-v5/
+distlBert-model-v5/
+distlBert-model-v7/
+distlBert-model-v4/
