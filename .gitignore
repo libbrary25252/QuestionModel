@@ -10,6 +10,7 @@ distBert-v5/
 distBert-v6/
 distBert-v7/
 distBert-v8/
+distBert-v9/
 distlBert-model-v3/
 distlBert-model-v4/
 Bert-v2/
@@ -21,3 +22,4 @@ DistilBert-v5/
 distlBert-model-v5/
 distlBert-model-v7/
 distlBert-model-v8/
+distlBert-model-v9/
