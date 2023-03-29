@@ -1,6 +1,7 @@
 venv/
 nbroad/
 distBert/
+Bert-model-v/
 Bert-model-v1/
 temp_model/
 distlBert-model-v1/
@@ -13,13 +14,15 @@ distBert-v8/
 distBert-v9/
 distlBert-model-v3/
 distlBert-model-v4/
-Bert-v2/
+Bert-v1/
 Bert-v3/
 Bert-model-v3/
 macEnv/
 DistilBert-model-v5/
 DistilBert-v5/
+distlBert-v10/
 distlBert-model-v5/
 distlBert-model-v7/
 distlBert-model-v8/
 distlBert-model-v9/
+distlBert-model-v10/
